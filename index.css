@@ -1,0 +1,31 @@
+/* Write your code here. */
+.container-heading {
+  font-size: 30px;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.box1 {
+  background-color: #0b69ff;
+  height: 30px;
+  width: 100px;
+  color: White;
+}
+.box2 {
+  background-color: #2dca73;
+  height: 30px;
+  width: 100px;
+  color: White;
+}
+.box3 {
+  background-color: #ffb800;
+  height: 30px;
+  width: 100px;
+  color: White;
+}
+.box4 {
+  background-color: #ff0b37;
+  height: 30px;
+  width: 100px;
+  color: White;
+}
